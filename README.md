@@ -5,7 +5,7 @@ Each project focuses on building a deeper understanding of how data structures a
 
 ---
 
-## 🧩 Projects
+## Projects
 
 | Project | Description |
 |----------|--------------|
@@ -16,7 +16,7 @@ Each project focuses on building a deeper understanding of how data structures a
 
 ---
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 - Array manipulation  
 - Sorting and searching algorithms  
 - Iteration and recursion  
@@ -25,15 +25,11 @@ Each project focuses on building a deeper understanding of how data structures a
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Visual Basic  
 - Java  
 
 ---
 
-## 🎯 Purpose
+## Purpose
 These projects were created to strengthen my understanding of core programming logic and problem-solving — essential foundations for software development, IT, and cybersecurity.
-
----
-
-⭐ *Part of my ongoing learning journey in computer programming and cybersecurity.*
